@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vusan\\Documents\\Visual Studio Code Repos\\ClientCheck-In\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01A84C9E-AA51-4D9D-B90E-00D1FB6B4EC4}|ClientCheck-In.csproj|c:\\users\\vusan\\documents\\visual studio code repos\\clientcheck-in\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A84C9E-AA51-4D9D-B90E-00D1FB6B4EC4}|ClientCheck-In.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vusan\\Documents\\Visual Studio Code Repos\\ClientCheck-In\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vusan\\Documents\\Visual Studio Code Repos\\ClientCheck-In\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:24:09.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
