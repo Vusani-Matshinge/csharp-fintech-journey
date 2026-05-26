@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\vusan\\Documents\\Visual Studio Code Repos\\LoanApplicationAssessor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D930CC69-83B8-4928-B4CD-C033CAFB8CFD}|LoanApplicationAssessor.csproj|c:\\users\\vusan\\documents\\visual studio code repos\\loanapplicationassessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D930CC69-83B8-4928-B4CD-C033CAFB8CFD}|LoanApplicationAssessor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91367AF1-15D5-F898-FB90-A502497FC878}|LoanApplicationAssessor.csproj|c:\\users\\vusan\\documents\\visual studio code repos\\loanapplicationassessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91367AF1-15D5-F898-FB90-A502497FC878}|LoanApplicationAssessor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\vusan\\Documents\\Visual Studio Code Repos\\LoanApplicationAssessor\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAQwE0AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-26T22:01:26.268Z",
               "EditorCaption": ""

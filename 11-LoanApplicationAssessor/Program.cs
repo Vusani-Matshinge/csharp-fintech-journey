@@ -61,9 +61,9 @@ namespace LoanApplicationAssessor
 
 			string statusCheck = (ageCheck && creditCheck && affordabilityCheck) ? "APPROVED" : "DECLINED";
 
-			Console.WriteLine($"Age Check:      {ageCheck}");
-			Console.WriteLine($"Credit Check:   {creditCheck}");
-			Console.WriteLine($"Affordability:  {affordabilityCheck}");
+			Console.WriteLine($"Age Check:      {ageCheckLabel}");
+			Console.WriteLine($"Credit Check:   {creditCheckLabel}");
+			Console.WriteLine($"Affordability:  {affordabilityCheckLabel}");
 
 			Console.WriteLine(divider);
 
