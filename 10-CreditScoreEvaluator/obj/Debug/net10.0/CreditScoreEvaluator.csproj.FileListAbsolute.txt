@@ -1,0 +1,14 @@
+C:\Users\vusan\Downloads\CreditScoreEvaluator\bin\Debug\net10.0\CreditScoreEvaluator.exe
+C:\Users\vusan\Downloads\CreditScoreEvaluator\bin\Debug\net10.0\CreditScoreEvaluator.deps.json
+C:\Users\vusan\Downloads\CreditScoreEvaluator\bin\Debug\net10.0\CreditScoreEvaluator.runtimeconfig.json
+C:\Users\vusan\Downloads\CreditScoreEvaluator\bin\Debug\net10.0\CreditScoreEvaluator.dll
+C:\Users\vusan\Downloads\CreditScoreEvaluator\bin\Debug\net10.0\CreditScoreEvaluator.pdb
+C:\Users\vusan\Downloads\CreditScoreEvaluator\obj\Debug\net10.0\CreditScoreEvaluator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vusan\Downloads\CreditScoreEvaluator\obj\Debug\net10.0\CreditScoreEvaluator.AssemblyInfoInputs.cache
+C:\Users\vusan\Downloads\CreditScoreEvaluator\obj\Debug\net10.0\CreditScoreEvaluator.AssemblyInfo.cs
+C:\Users\vusan\Downloads\CreditScoreEvaluator\obj\Debug\net10.0\CreditScoreEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\vusan\Downloads\CreditScoreEvaluator\obj\Debug\net10.0\CreditScoreEvaluator.dll
+C:\Users\vusan\Downloads\CreditScoreEvaluator\obj\Debug\net10.0\refint\CreditScoreEvaluator.dll
+C:\Users\vusan\Downloads\CreditScoreEvaluator\obj\Debug\net10.0\CreditScoreEvaluator.pdb
+C:\Users\vusan\Downloads\CreditScoreEvaluator\obj\Debug\net10.0\CreditScoreEvaluator.genruntimeconfig.cache
+C:\Users\vusan\Downloads\CreditScoreEvaluator\obj\Debug\net10.0\ref\CreditScoreEvaluator.dll
